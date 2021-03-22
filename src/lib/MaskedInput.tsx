@@ -41,7 +41,6 @@ export default class MaskedInput extends Component<MaskedInputProps> {
     let options: any = {
       pattern: this.props.mask,
       value: this.props.value,
-      isRevealingMask: true,
       formatCharacters: this.props.formatCharacters
     };
 
