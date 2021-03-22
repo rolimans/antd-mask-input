@@ -1,9 +1,8 @@
 node_modules
-build
+src
 test
-src/**.js
 .idea/*
-
+yarn.lock
 coverage.lcov
 coverage
 .nyc_output
